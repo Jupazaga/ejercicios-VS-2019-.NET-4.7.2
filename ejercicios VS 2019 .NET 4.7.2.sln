@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.32630.194
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "formulario WMP", "ejercicio\formulario WMP.csproj", "{48357B12-F92E-450E-9188-2C625C25E87A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Navegador Web", "Navegador Web\Navegador Web.csproj", "{3AE35568-9B62-43AE-BE3F-30AC2A378FDB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{48357B12-F92E-450E-9188-2C625C25E87A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48357B12-F92E-450E-9188-2C625C25E87A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48357B12-F92E-450E-9188-2C625C25E87A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AE35568-9B62-43AE-BE3F-30AC2A378FDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AE35568-9B62-43AE-BE3F-30AC2A378FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AE35568-9B62-43AE-BE3F-30AC2A378FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AE35568-9B62-43AE-BE3F-30AC2A378FDB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
